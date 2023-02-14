@@ -1,4 +1,13 @@
-<p align="center"><a href="https://nmwclinic.co.id" target="_blank"><img src="https://raw.githubusercontent.com/nmwclinic/.github/main/images/logo.svg" width="400" alt="NMW Clinic Logo"></a></p>
+<p align="center"><a href="https://nmwclinic.co.id" target="_blank"><img src="https://raw.githubusercontent.com/nmwclinic/.github/main/images/logo.svg" width="300" alt="NMW Clinic Logo"></a></p>
+
+<p align="center">
+   <a href="https://www.tiktok.com/@nmwclinic" target="_blank"><img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;
+   <a href="https://www.instagram.com/nmwskincare/" target="_blank"><img src="https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram" /></a>&nbsp;
+   <a href="https://shopee.co.id/nmwclinic" target="_blank"><img src="https://img.shields.io/badge/Shopee-113366?style=for-the-badge&logo=shopee" /></a>&nbsp;
+   <a href="https://wa.me/6281280360370" target="_blank"><img src="https://img.shields.io/badge/contact us-128C7E?style=for-the-badge&logo=whatsapp" /></a>
+</p>
+
+---
 
 # NMW Clinic
 
