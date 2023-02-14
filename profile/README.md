@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nmwclinic.co.id" target="_blank"><img src="" width="400" alt="NMW Clinic Logo"></a></p>
+<p align="center"><a href="https://nmwclinic.co.id" target="_blank"><img src="https://raw.githubusercontent.com/nmwclinic/.github/main/images/logo.svg" width="400" alt="NMW Clinic Logo"></a></p>
 
 # NMW Clinic
 
